@@ -1,0 +1,61 @@
+2014-03-02 16:59:02,844 INFO: Running img2track version 1.4b1 ...
+2014-03-02 16:59:02,844 DEBUG:  command = img2track.py originals/grumpycat.png temp 1.5 60
+2014-03-02 16:59:02,844 ERROR: <disc_folder> "temp" not found, or not a folder
+2014-03-02 16:59:15,496 INFO: Running img2track version 1.4b1 ...
+2014-03-02 16:59:15,496 DEBUG:  command = img2track.py originals/grumpycat.png temp 1.5 60
+2014-03-02 16:59:15,498 INFO:   Image read from file "originals/grumpycat.png"
+2014-03-02 16:59:15,499 INFO:   Image size (width, height) is (250, 250)
+2014-03-02 16:59:15,508 INFO:   Stretched image vertically by 1.5 to size (250, 375)
+2014-03-02 16:59:15,511 WARNING: Image wider than 60, resized to (60, 90)
+2014-03-02 16:59:15,514 INFO:   Stored 60 x 90 image in track 1 as pattern number 901
+2014-03-02 17:10:05,374 INFO: Running img2track version 1.4b1 ...
+2014-03-02 17:10:05,374 DEBUG:  command = img2track.py originals/grumpycat.png temp 1.5 25
+2014-03-02 17:10:05,376 INFO:   Image read from file "originals/grumpycat.png"
+2014-03-02 17:10:05,376 INFO:   Image size (width, height) is (250, 250)
+2014-03-02 17:10:05,383 INFO:   Stretched image vertically by 1.5 to size (250, 375)
+2014-03-02 17:10:05,386 WARNING: Image wider than 25, resized to (25, 38)
+2014-03-02 17:10:05,387 INFO:   Stored 25 x 38 image in track 1 as pattern number 901
+2014-03-02 17:28:03,447 INFO: Running img2track version 1.4b1 ...
+2014-03-02 17:28:03,447 DEBUG:  command = img2track.py originals/grumpycat.png . 1.5 25
+2014-03-02 17:28:03,450 INFO:   Image read from file "originals/grumpycat.png"
+2014-03-02 17:28:03,450 INFO:   Image size (width, height) is (250, 250)
+2014-03-02 17:28:03,457 INFO:   Stretched image vertically by 1.5 to size (250, 375)
+2014-03-02 17:28:03,459 WARNING: Image wider than 25, resized to (25, 38)
+2014-03-02 17:28:03,460 INFO:   Stored 25 x 38 image in track 1 as pattern number 901
+2014-03-02 20:29:07,216 INFO: Running img2track version 1.4b1 ...
+2014-03-02 20:29:07,216 DEBUG:  command = img2track.py originals/grumpycat2.png . 1.5 60
+2014-03-02 20:29:07,217 ERROR: [Errno 2] No such file or directory: 'originals/grumpycat2.png'
+2014-03-02 20:29:21,768 INFO: Running img2track version 1.4b1 ...
+2014-03-02 20:29:21,768 DEBUG:  command = img2track.py originals/grumpycat2.png . 1.5 60
+2014-03-02 20:29:21,769 ERROR: [Errno 2] No such file or directory: 'originals/grumpycat2.png'
+2014-03-02 20:30:05,401 INFO: Running img2track version 1.4b1 ...
+2014-03-02 20:30:05,401 DEBUG:  command = img2track.py originals/grumpycat2.png . 1.5 60
+2014-03-02 20:30:05,405 INFO:   Image read from file "originals/grumpycat2.png"
+2014-03-02 20:30:05,405 INFO:   Image size (width, height) is (277, 277)
+2014-03-02 20:30:05,412 INFO:   Stretched image vertically by 1.5 to size (277, 416)
+2014-03-02 20:30:05,416 WARNING: Image wider than 60, resized to (60, 90)
+2014-03-02 20:30:05,417 INFO:   Stored 60 x 90 image in track 1 as pattern number 901
+2014-03-02 20:31:03,064 INFO: Running img2track version 1.4b1 ...
+2014-03-02 20:31:03,064 DEBUG:  command = img2track.py originals/grumpycat2.png . 1.5 60
+2014-03-02 20:31:03,064 ERROR: [Errno 2] No such file or directory: 'originals/grumpycat2.png'
+2014-03-02 20:31:12,665 INFO: Running img2track version 1.4b1 ...
+2014-03-02 20:31:12,665 DEBUG:  command = img2track.py originals/grumpycat2.png . 1.5 60
+2014-03-02 20:31:12,667 INFO:   Image read from file "originals/grumpycat2.png"
+2014-03-02 20:31:12,667 INFO:   Image size (width, height) is (277, 277)
+2014-03-02 20:31:12,674 INFO:   Stretched image vertically by 1.5 to size (277, 416)
+2014-03-02 20:31:12,678 WARNING: Image wider than 60, resized to (60, 90)
+2014-03-02 20:31:12,679 INFO:   Stored 60 x 90 image in track 1 as pattern number 901
+2014-03-02 20:31:38,220 INFO: Running img2track version 1.4b1 ...
+2014-03-02 20:31:38,221 DEBUG:  command = img2track.py originals/grumpycat2.png . 1.5 60
+2014-03-02 20:31:38,223 INFO:   Image read from file "originals/grumpycat2.png"
+2014-03-02 20:31:38,223 INFO:   Image size (width, height) is (277, 277)
+2014-03-02 20:31:38,230 INFO:   Stretched image vertically by 1.5 to size (277, 416)
+2014-03-02 20:31:38,234 WARNING: Image wider than 60, resized to (60, 90)
+2014-03-02 20:31:38,236 INFO:   Stored 60 x 90 image in track 1 as pattern number 901
+2014-03-02 20:43:11,401 INFO: Running img2track version 1.4b1 ...
+2014-03-02 20:43:11,402 DEBUG:  command = img2track.py originals/grumpycat3.png . 1.5 60
+2014-03-02 20:43:11,404 INFO:   Image read from file "originals/grumpycat3.png"
+2014-03-02 20:43:11,404 INFO:   Image size (width, height) is (277, 277)
+2014-03-02 20:43:11,410 INFO:   Stretched image vertically by 1.5 to size (277, 416)
+2014-03-02 20:43:11,414 WARNING: Image wider than 60, resized to (60, 90)
+2014-03-02 20:43:11,416 INFO:   Stored 60 x 90 image in track 1 as pattern number 901
